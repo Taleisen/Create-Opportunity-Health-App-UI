@@ -58,14 +58,6 @@ To run linting after following the installation instructions, type "npm run lint
 * To run testing on your front end application in your text editor run npm test in the command line.
 * To run testing with coverage on your front end application in your text editor run npm test -- --coverage in the command line.
 
-## Related Repositories
-
-### API
-https://gitlab.com/mtc-cce1/mtc-cce-wdev/sept-2023-cohort/curtis-lynn/final/health-api
-
-### UI
-https://gitlab.com/mtc-cce1/mtc-cce-wdev/sept-2023-cohort/curtis-lynn/final/health-ui
-
 ## Credits
 Curtis Lynn
 4/26/2024
